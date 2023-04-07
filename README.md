@@ -1,6 +1,7 @@
 # Dataset References
 > A compilation of relevant public datasets for humanitarian, development analysis
 
+- Demographic and Health Surveys : [DHS](https://dhsprogram.com/data/available-datasets.cfm)
 
 - Conflict Data : [UCDP](https://ucdp.uu.se/)
 
